@@ -1,5 +1,10 @@
-Hi!!!!!!
-Im NexoShez!
+yo im Nexo, you can call me nex or nexi
 
-I am a developer of discord bots, roblox games, and BD Themes!
-https://discord.gg/aXg8fhPbMK
+i specialize in UI when it comes to making games
+im decent at 3d modeling
+i code in py
+i make art
+join my discord
+https://discord.gg/UZzBhQy7yY 
+
+i will not care about your pronouns btw ^^
