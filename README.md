@@ -2,12 +2,12 @@
 yo im Nexo, you can call me nex or nexi
 
 # what do i do???
-i like to specialize in UI when it comes to making games\n
-im decent at 3d modeling (sometimes)\n
-i code in py & rlua\n
-i make art\n
-im usually lazy\n
-i vc alot or want to vc alot\n
+i like to specialize in UI when it comes to making games
+im decent at 3d modeling (sometimes)
+i code in py & rlua
+i make art
+im usually lazy
+i vc alot or want to vc alot
 
 # socials and other
 join my discord:
