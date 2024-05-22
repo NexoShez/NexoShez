@@ -6,7 +6,7 @@ i like to specialize in UI when it comes to making games
 
 im decent at 3d modeling (sometimes)
 
-i code in py & rlua
+i code in d.py & luau
 
 i make art
 
