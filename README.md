@@ -10,6 +10,8 @@ im usually lazy
 
 i vc alot or want to vc alot
 
+FRC 2557 programming, build, & media
+
 # socials and other
 join my discord:
 https://discord.gg/UZzBhQy7yY 
