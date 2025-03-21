@@ -1,26 +1,29 @@
 # hiya
-yo im Nexo, you can call me nex or nexi
+yea im Nexo or whatever or just call me Ephraim i guess
 
 # what do i do???
-i like to specialize in UI when it comes to making games
+i like to specialize in UI/UX
 
-im decent at 3d modeling (sometimes)
-
-im usually lazy
-
-i vc alot or want to vc alot
+im generally pretty busy and am very tired after shop-hours, so unless
+you pay me for a commission or something im not gonna prioritize you 
+as much as others
 
 FRC 2557 programming, build, & media
+- kitbot 2025
+- testbench 2025
+   - with pneumatics and LEDS !!
+- i designed the pins we give out at comps
+- i do build things 
 
 # socials and other
 join my discord:
-https://discord.gg/UZzBhQy7yY 
+https://discord.gg/UZzBhQy7yY
 
-i will not care about your pronouns btw ^^
-
-if you wanna add me on steam or vrc, dm me on discord
+$nexiblep if you choose to donate to me or
+https://ko-fi.com/nexohtml donate on my ko-fi <3
 
 # my work
-i have my own experience in html, js, python, and other languages
+i work in html, java, js, c++
+although i have worked in js, py, luau, & more
 
-if you need my portfolio just dm me on discord and ill give you the document
+look at my awesome website for my portfolio lol (2025 portfolio wip)
